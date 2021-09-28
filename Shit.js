@@ -1,3 +1,5 @@
+// 1) задание, напишите if, аналогичнй switch!
+
 let browser;
 if(browser === 'edge') {
     alert ("You've got the Edge!");
